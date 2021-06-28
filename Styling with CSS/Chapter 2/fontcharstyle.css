@@ -1,0 +1,29 @@
+#italics {
+	font-style: italic;	
+	font-variant: small-caps;
+}
+
+#boldface {
+	font-weight: bold;
+}
+
+#underlined {
+	text-decoration: overline underline line-through;
+}
+#strikethrough {
+	text-decoration: line-through;
+}
+
+#centre {
+	text-align: center;
+}
+
+#rightjustified {
+	text-align: right;
+}
+
+#fontshort {
+	font: normal small-caps 900 180% ;
+}
+
+/*underline, strikethrough, overline, and blink.*/

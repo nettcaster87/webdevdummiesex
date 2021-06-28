@@ -1,0 +1,43 @@
+#xxsmall {
+	font-size: xx-small;
+}
+
+#xsmall {
+	font-size: x-small;
+}
+
+#small {
+	font-size: small;
+}
+
+#medium {
+	font-size: medium;
+}
+
+#large {
+	font-size: large;
+}
+
+#xlarge {
+	font-size: x-large;
+}
+
+#xxlarge {
+	font-size: xx-large;
+}
+
+#f100 {
+	font-size: 100%;
+}
+
+#f50 {
+	font-size: 50%;
+}
+
+#f150 {
+	font-size: 150%;
+}
+
+#f200 {
+	font-size: 200%;
+}
