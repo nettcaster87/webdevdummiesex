@@ -1,0 +1,19 @@
+#quote {
+	font: italic bold 150% sans-serif;
+	text-align: center;
+}
+
+#reference {
+	font: 80% monospace;
+	text-align: right;
+}
+
+em {
+	font-style: normal;
+	background-color: yellow;
+}
+
+strong {
+	color: red;
+	font-size: 110%;
+}
