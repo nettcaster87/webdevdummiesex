@@ -1,0 +1,36 @@
+.contact {
+	background-color: #ccccff;
+}
+
+.name {
+	font: italic 110% arial, sans-serif;
+}
+
+.phone{
+	font: 100% monospace;
+}
+
+div {
+	display: flex;
+	flex-direction: row;
+}
+
+span {
+	width: 20%;
+	border: solid 1px white;
+}
+
+a {
+	color: black;
+	background-color: white;
+}
+
+a:visited {
+	color: black;
+	background-color: #FFFF33;
+}
+
+a:hover {
+	color: white;
+	background-color: black;
+}
