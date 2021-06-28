@@ -1,0 +1,19 @@
+.question {
+	font: italic 150% sans-serif;
+	text-align: left;
+}
+
+.answer {
+	color: blue;
+	text-align: right;
+	font: 120% Comic Sans MS, cursive;
+}
+
+.red {
+	color: white;
+	background-color: red;
+}
+
+.script {
+	font-family: cursive;
+}
