@@ -1,0 +1,22 @@
+h1, h2, h3 {
+	text-align: center;
+	font-family: "Bradley Hand ITC", cursive;
+	background-color: yellow;
+}
+
+h3 {
+	font-family: monospace;
+}
+
+input {
+	background-color: #CCCCFF;
+}
+
+/*.special {
+	font-family: cursive;
+	color: blue;
+}*/
+
+p:not(#special) {
+	border: 1px solid red;
+}

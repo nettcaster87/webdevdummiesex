@@ -10,10 +10,10 @@
 	font: 100% monospace;
 }
 
-div {
+/*div {
 	display: flex;
 	flex-direction: row;
-}
+}*/
 
 span {
 	width: 20%;
@@ -33,4 +33,8 @@ a:visited {
 a:hover {
 	color: white;
 	background-color: black;
+}
+
+#special p {
+	text-align: right;
 }
