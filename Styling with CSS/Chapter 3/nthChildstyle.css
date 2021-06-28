@@ -1,0 +1,7 @@
+ol>li:nth-last-child(3) {
+	border: 1px solid darkred;
+}
+
+/*ol >li:nth-child(1) {
+	border: 1px solid blue;
+}*/
