@@ -55,3 +55,18 @@ ul>li:nth-child(8) {
 	border-width: .25em;
 	border-style: dotted;
 }
+
+#shortcut {
+	border: blue 15px outset;
+}
+
+#bottomborder {
+	border-bottom: double 15px green;
+}
+
+#multiborder {
+	border-top: dotted 3px blue;
+	border-right: dashed 5px red;
+	border-bottom: outset 10px green;
+	border-left: inset 10px yellow;
+}
