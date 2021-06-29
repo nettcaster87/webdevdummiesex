@@ -1,0 +1,45 @@
+div {
+	border: 5px solid red;
+	
+}
+
+/*p {
+	border: 2px solid	black;
+	text-align: center;
+}*/
+
+#margin {
+	margin: 10px;
+}
+
+#padding {
+	padding: 10px;
+}
+
+#marginpadding {
+	margin: 10px;
+	padding: 10px;
+}
+
+#indentright {
+	margin-left: 50%;
+	border: none;
+}
+
+#main {
+	border: none;
+}
+
+#maindiv {
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h3 {
+	border: 15px solid blueviolet;
+	/*border-image: url("blueborder.png") 30% repeat;
+	-webkit-border-image:  url("blueborder.png") 30% repeat;
+	-moz-border-image:  url("blueborder.png") 30% repeat;*/
+	border-radius: 50px;
+}
