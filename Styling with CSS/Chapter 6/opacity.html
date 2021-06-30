@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Opacity</title>
+	<style type="text/css">
+		body {background-image: url("background.jpg"); background-repeat: no-repeat;}
+		div {width: 300px; 
+			height: 300px;
+			top: 350px;
+			left: 200px; 
+			background-color: white;
+			opacity: 0.75;}
+		h1 {color: rgba(0, 0, 0, 0.4); }
+
+		.reflection {-webkit-box-reflect: below 1px;
+				-webkit-linear-gradient (bottom, white, transparent 40%, transparent); 
+					} 	
+
+	</style>
+</head>
+<body>
+
+	<h1>Opacity Demo</h1>
+	<div>
+		
+	</div>
+
+	<h2 class="reflection">Reflection Demo</h2>
+
+	<span><img src="background.jpg" alt="circle background"
+		width="200px"
+		height="200px"
+		class="reflection"></span>
+
+</body>
+
+</html>
