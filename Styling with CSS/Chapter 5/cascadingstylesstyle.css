@@ -1,0 +1,16 @@
+body {
+	background-color: black;
+	color: white;
+}
+
+p {
+	font-family: monospace;
+}
+
+.italics {
+	font-style: italic;
+}
+
+#boldstrong {
+	font-weight: bold;
+}
