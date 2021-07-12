@@ -1,0 +1,26 @@
+header {
+	/*background-color: lightblue;*/
+	border-bottom: 3px black double;
+}
+
+#left {
+	/*background-color: yellow;
+	border: 3px red solid;*/
+	float: left;
+	width: 20%;
+}
+
+#right {
+	/*background-color: green;*/
+	border-left: 3px gray double;
+	float: left;
+	width: 75%;
+}
+
+footer {
+	/*background-color: orange;*/
+	border-top: 3px gray double;
+	clear: both;
+	text-align: center;
+
+}
