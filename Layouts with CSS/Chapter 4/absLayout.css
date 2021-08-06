@@ -1,0 +1,32 @@
+#all, header, #menu, #body {
+	border: 2px solid black;
+	position: absolute;
+}
+#all {
+	height: 600px;
+	width: 650px;
+	top: 0px;
+	left: 0px;
+}
+header {
+	height: 90px;
+	width: 638px;
+	top: 0px;
+	left: 0px;
+	text-align: center;
+	padding: 5px;
+}
+#menu {
+	height: 486px;
+	width: 140px;
+	left: 0px;
+	top: 102px;
+	padding: 5px;
+}
+#body {
+	height: 486px;
+	width: 486px;
+	top: 102px;
+	left: 152px;
+	padding: 5px;
+}

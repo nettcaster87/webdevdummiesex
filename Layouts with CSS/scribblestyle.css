@@ -1,0 +1,53 @@
+header {
+	text-align: center;
+	background-color: aqua;
+	border: 3px gray double;
+	border-radius: 25px;
+	margin-bottom: 3px;
+}
+
+nav {
+	float: left;
+	clear: left;
+	width: 18%;
+	background-color: violet;
+	border: 3px gray solid;
+	border-radius: 10px;
+	margin: 2% 2% 2% 0;
+	min-height: 20em;
+	/*overflow: auto;*/
+}
+
+#middlesection {
+	float: left;
+	/*clear: left;*/
+	width: 54%;
+	margin: 2%;
+	min-height: 20em;
+}
+
+#rightsection {
+	float: right;
+	/*clear: left;*/
+	width: 18%;
+	margin: 2% 0 2% 2%;
+	border: 3px yellow dashed;
+	border-radius: 15px;
+	min-height: 20em;
+	text-align: center;
+}
+
+footer {
+	float: left;
+	clear: both;
+	width: 100%;
+	text-align: center;
+	background-color: gray;
+	border: 3px black double;
+	border-radius: 15px;
+}
+
+#footerdeets {
+	list-style: none;
+	text-align: center;
+}
